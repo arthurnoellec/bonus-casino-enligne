@@ -1,0 +1,80 @@
+{
+  "lang": {
+    "fr-ca": {
+      "title": "La magie des jeux de casino en direct : amenez Vegas dans votre salon",
+      "date": "9 août 2023",
+      "image": "https://zupimages.net/up/23/32/43sd.png",
+      "filtres": [
+        "Jeux en direct",
+        "Jeux de table"
+      ],
+      "blocks": [
+        {
+          "title": "Plonge-toi dans l'aventure depuis le confort de ton canapé ou la détente de ton transat !   ",
+          "subBlocks": [
+            {
+              "title": " L'enchantement des jeux de casino en direct",
+              "paragraphs": [
+                "En ce qui concerne les jeux de casino en ligne, rien ne se compare tout à fait à l'attrait et à l'authenticité des jeux avec croupiers en direct. Ces jeux offrent aux joueurs une véritable atmosphère de casino dans le confort de leur foyer. Si vous n'avez jamais plongé dans le monde des jeux de casino en direct, lisez la suite pour découvrir ce que vous avez manqué."
+              ]
+            },         
+            {
+              "title": "Que sont les jeux de casino en direct ?",
+              "paragraphs": [
+                "Les jeux de casino en direct sont des offres de casino en ligne où les joueurs interagissent avec de vrais croupiers humains via la technologie de diffusion en direct. Les jeux de casino populaires comme le blackjack, la roulette, le baccarat et le poker sont joués en temps réel, diffusés depuis un studio de jeu professionnel. Les joueurs peuvent interagir avec les croupiers, placer leurs paris par voie électronique et même discuter avec d'autres joueurs."
+              ]
+            },
+            {
+              "title": "Pourquoi jouer aux jeux de casino en direct ?",
+              "paragraphs": [
+                "Atmosphère de casino authentique : les jeux de casino en direct capturent parfaitement l'ambiance et l'excitation d'un casino physique. La vidéo haute définition, combinée à un éclairage et à une configuration professionnels, évoque la sensation d'être assis à une vraie table de casino.",
+                "Interactivité : Contrairement aux jeux en ligne classiques, les jeux avec croupier en direct vous permettent d'interagir avec un croupier humain et souvent, avec d'autres joueurs. Il ajoute un élément social qui manque autrement dans les jeux en ligne standard.",
+                "Confiance : Voir le jeu se dérouler en temps réel, avec de vraies cartes et de vraies roues de roulette, peut ajouter une couche de confiance supplémentaire pour les joueurs sceptiques quant aux résultats des jeux numériques.",
+                "Diverses variantes de jeu : Les sections de casino en direct hébergent souvent plusieurs versions de jeux populaires, chacune avec des rebondissements et des règles uniques, garantissant aux joueurs toujours quelque chose de nouveau à essayer."             
+              
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "en": {
+        "title": "The Magic of Live Casino Games: Bring Vegas into Your Living Room",
+        "date": "August 9, 2023",
+        "image": "https://zupimages.net/up/23/32/43sd.png",
+        "filtres": [
+          "Live games",
+          "Table games"
+        ],
+        "blocks": [
+          {
+            "title": "Dive into the adventure from the comfort of your sofa or the relaxation of your sun lounger!",
+            "subBlocks": [
+              {
+                "title": "The enchantment of live casino games",
+                "paragraphs": [
+                  "When it comes to online casino games, nothing quite compares to the allure and authenticity of live dealer games. These games offer players a genuine casino atmosphere in the comfort of their own home. If you've never delved into the world of live casino games, read on to find out what you've been missing."
+                ]
+              },
+              {
+                "title": "What are live casino games?",
+                "paragraphs": [
+                  "Live casino games are online casino offerings where players interact with real human dealers via live streaming technology. Popular casino games like blackjack, roulette, baccarat, and poker are played in real-time, broadcasted from a professional gaming studio. Players can interact with the dealers, place their bets electronically, and even chat with other players."
+                ]
+              },
+              {
+                "title": "Why play live casino games?",
+                "paragraphs": [
+                  "Authentic casino atmosphere: Live casino games perfectly capture the mood and excitement of a physical casino. High-definition video, combined with professional lighting and setup, evokes the feeling of sitting at a real casino table.",
+                  "Interactivity: Unlike traditional online games, live dealer games allow you to interact with a human dealer and often, other players. It adds a social element that's otherwise missing in standard online games.",
+                  "Trust: Seeing the game unfold in real-time, with real cards and real roulette wheels, can add an extra layer of trust for players skeptical about the outcomes of digital games.",
+                  "Various game variants: Live casino sections often host multiple versions of popular games, each with unique twists and rules, ensuring players always have something new to try."
+                ]
+              }
+            ]
+          }
+        ]
+      }    
+    }
+  }
+      
