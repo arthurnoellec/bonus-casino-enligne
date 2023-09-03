@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  background-color: #1b1b19;
+  /* overflow:hidden ; */
+  background-image: url(https://zupimages.net/up/23/16/qre1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.corps{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  width: 100vw;
+  height: 100vh;
+}
+
+.div_droite{
+  width: 40%;
+  padding-right: 50px;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  height: 100vh;
+}
+
+button{
+  position: absolute;
+  bottom: 130px;
+}
+
+@media only screen and (max-width: 1250px) {
+  .div_droite{
+    transform: scale(0.8);
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .div_droite{
+    width: 100%;
+    padding-right: 50px;
+  }
+
+  .corps{
+    justify-content: center;
+  }
+}
+

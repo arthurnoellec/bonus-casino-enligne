@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "build" # ou "dist" si vous utilisez un autre dossier pour le build
+
+  # Ajoutez la variable d'environnement CI avec la valeur "false" si vous souhaitez ignorer les avertissements
+  environment = { CI = "false" }
+
+# Vous pouvez également ajouter des règles de redirection ou d'autres configurations spécifiques à Netlify ici
