@@ -1,0 +1,1523 @@
+[
+  {
+    "id": 1,
+    "nom": "madnix",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu'à 1000€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "25€",
+    "bonus_2_bonus": "100%",
+    "bonus_2_jusqua": "jusqu'à 1000€",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "25€",
+    "bonus_3_bonus": "100%",
+    "bonus_3_jusqua": "jusqu'à 1000€",
+    "bonus_3_wager": "x",
+    "bonus_3_bet_max": "5€",
+    "bonus_3_depot_min": "25€",
+    "note_casino": "9,4\/10",
+    "lien_affilie": "https://madnix.com",
+    "lien_classique": "madnix.com",
+    "New": "non",
+    "wager": "non",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/imbm.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2018",
+    "methode_de_retrait_1": "Transfert bancaire\n24H",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "lien_banierre": "https://zupimages.net/up/23/20/742q.jpeg",
+    "description_casino": [
+      "Madnix est un casino en ligne qui propose une expérience de jeu de qualité supérieure. Ce casino francophone a été lancé en 2019 et offre une large sélection de jeux, allant des machines à sous aux jeux de table en direct en passant par les jeux de cartes.",
+      "",
+      "Madnix est alimenté par les meilleurs développeurs de logiciels de jeux tels que NetEnt, Microgaming, Play'n GO et Yggdrasil, garantissant ainsi une expérience de jeu exceptionnelle. Madnix se démarque également par sa généreuse offre de bienvenue de 100 % sans wagering et ses 290 tours gratuits, permettant aux joueurs de démarrer leur expérience de jeu avec une longueur d'avance.",
+      "",
+      "Les joueurs peuvent également profiter de paiements extrêmement rapides en moins de 24 heures et d'une limite de retrait par semaine de 5000 €."
+    ],
+    "description_avis": [
+      "Ce casino possède une interface utilisateur très conviviale qui facilite la navigation sur le site et permet aux joueurs de trouver rapidement les jeux qu'ils souhaitent jouer. L'une des caractéristiques les plus intéressantes de Madnix est sa sélection de jeux de casino en ligne.",
+      "",
+      "Le casino propose une grande variété de jeux de différents fournisseurs de logiciels, notamment Betsoft, NetEnt, Play'n GO, Yggdrasil, et bien d'autres. Les joueurs peuvent donc s'attendre à trouver une gamme complète de jeux de casino, y compris des machines à sous, des jeux de table, des jeux de casino en direct et bien plus encore.",
+      "",
+      "Madnix propose également une gamme intéressante de bonus et de promotions pour les joueurs. Les nouveaux joueurs peuvent profiter d'un bonus de bienvenue généreux, tandis que les joueurs existants peuvent bénéficier de tours gratuits, de cashback et d'autres offres attractives.",
+      "",
+      "Le casino propose également un programme de fidélité pour les joueurs réguliers, qui leur permet de gagner des points qu'ils peuvent échanger contre des récompenses. En termes de sécurité et de fiabilité, Madnix prend très au sérieux la protection des informations des joueurs. Le casino utilise une technologie de cryptage de pointe pour garantir la sécurité des informations des joueurs et propose également une politique de confidentialité transparente. De plus, Madnix est licencié par la Malta Gaming Authority (MGA), ce qui garantit une expérience de jeu équitable et réglementée.",
+      "",
+      "En conclusion, Madnix est un excellent choix pour les joueurs en ligne à la recherche d'une expérience de jeu de qualité, une large sélection de jeux de casino, des bonus attractifs, et une sécurité de première classe. C'est donc un casino en ligne recommandé pour ceux qui cherchent à jouer de manière sûre et agréable."
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Magical spin",
+    "Visa": "oui",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "120%",
+    "bonus_1_jusqua": "jusqu'à 1000€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "7,50€",
+    "bonus_1_depot_min": "25€",
+    "bonus_2_bonus": "120%",
+    "bonus_2_jusqua": "jusqu'à 1000€",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "7,50€",
+    "bonus_2_depot_min": "25€",
+    "bonus_3_bonus": "120%",
+    "bonus_3_jusqua": "jusqua 1000€",
+    "bonus_3_wager": "x",
+    "bonus_3_bet_max": "7,50€",
+    "bonus_3_depot_min": "25€",
+    "note_casino": "9.3\/10",
+    "lien_affilie": "https://magicalspin.com",
+    "lien_classique": "magicalspin.com",
+    "New": "non",
+    "wager": "non",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https:\/\/zupimages.net\/up\/23\/17\/shz6.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2019",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/vbjd.png",
+    "description_casino": [
+      "Si vous souhaitez tester un casino en ligne, ne manquez pas l'offre de bienvenue de Magical Spin ! En entrant le code bonus \"BONUS10FREE\" lors de votre inscription, vous recevrez instantanément 10€ sur votre compte joueur.",
+      "",
+      "De plus, vos 3 premiers dépôts seront assortis d'un bonus de 120% jusqu'à 1000€, sans condition de mise.",
+      "",
+      "Vous pouvez gagner et retirer vos gains quand vous le souhaitez ! Magical Spin offre également des bonus régulièrement chaque jours de la semaine sans condition de mise . Rassurez-vous, notre équipe a testé la fiabilité de ce casino en ligne et garantit que vous pouvez y jouer en toute confiance."
+    ],
+    "description_avis": [
+      "MagicalSpin est un casino en ligne proposant une large gamme de jeux , tels que des machines à sous, des jeux de table, des jeux en direct, du vidéo poker, du keno, du bingo et bien plus encore.",
+      "",
+      "Il a vu le jour en 2017 des mains de Betrust Entertainment B.V. A",
+      "",
+      "Magicalspin offre également des promotions et des bonus attractifs, ainsi qu'un programme VIP pour les joueurs fidèles.",
+      "",
+      "MagicalSpin est disponible en plusieurs langues et propose des options de paiement sûres et rapides, y compris les crypto-monnaies.",
+      "",
+      "De plus, le casino dispose d'un service clientèle efficace et disponible 24/7 pour aider les joueurs en cas de besoin."
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "WinOui",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu’à 500€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "25€",
+    "bonus_2_bonus": "50%",
+    "bonus_2_jusqua": "jusqu'à 250€",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "25€",
+    "bonus_3_bonus": "50%",
+    "bonus_3_jusqua": "jusqua 250€",
+    "bonus_3_wager": "x",
+    "bonus_3_bet_max": "5€",
+    "bonus_3_depot_min": "25€",
+    "note_casino": "9.3\/10",
+    "lien_affilie": "https://winoui.com",
+    "lien_classique": "winoui.com",
+    "New": "non",
+    "wager": "non",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/1u87.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2017",
+    "methode_de_retrait_1": "Transfert bancaire\n1-2J\n",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/i8j6.png",
+    "description_casino": [
+      "Winoui Casino et son offre de  bienvenue attrayante pour les nouveaux joueurs.",
+      "",
+      "Les joueurs peuvent profiter de trois bonus sur leurs trois premiers dépôts, pour un total de 1000€ + 300 Free Spins pour démarrer en fanfare !",
+      "",
+      "Découvrez le vaste univers de WinOui et son catalogue de plus de 3000 jeux"
+    ],
+    "description_avis": [
+      "Winoui Casino est un site de casino en ligne qui a été créé en 2018.",
+      "",
+      "Il appartient à The Luck Factory B.V, une société enregistrée et réglementée à Curaçao.",
+      "",
+      "Winoui Casino offre une gamme de jeux de casino populaires, notamment des machines à sous, des jeux de table, des jeux de cartes et des jeux en direct, fournis par des développeurs de logiciels de renom tels que NetEnt, Microgaming, Betsoft, Play'n GO, et bien d'autres.",
+      "",
+      "Winoui Casino est disponible en plusieurs langues, notamment en français, en anglais, en espagnol, en allemand et en finnois, ce qui permet aux joueurs internationaux de profiter de ses services.",
+      "",
+      "Le site est connu pour offrir une expérience de jeu fluide et conviviale, ainsi que pour ses promotions et bonus réguliers pour les joueurs.",
+      "",
+      "Winoui Casino est soumis à la réglementation et à la surveillance des autorités de Curaçao, ce qui garantit un environnement de jeu sûr et équitable pour les joueurs."
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Wild Sultan",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "non",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu'à 500€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "100%",
+    "bonus_2_jusqua": "jusqu'à 100€",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "25€",
+    "bonus_3_bonus": "100%",
+    "bonus_3_jusqua": "jusqua 100€",
+    "bonus_3_wager": "x",
+    "bonus_3_bet_max": "5€",
+    "bonus_3_depot_min": "25€",
+    "note_casino": "9.5\/10",
+    "lien_affilie": "https://wildsultan.com",
+    "lien_classique": "wildsultan.com",
+    "New": "non",
+    "wager": "non",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/uu2y.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2014",
+    "methode_de_retrait_1": "Transfert bancaire\n24H",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "lien_banierre": "https://zupimages.net/up/23/20/3alc.png",
+    "description_casino": [
+      "Wild Sultan est l'un des top casinos en ligne, et cela pour plusieurs raisons. Tout d'abord, la plateforme de casino en ligne propose des offres et promotions alléchantes ainsi que de nombreux bonus gratuits. De plus, la large sélection de jeux disponibles attire de plus en plus de joueurs chaque jour. Les dépôts sont également faciles, rapides et sans frais. En outre, le casino Wild Sultan offre la possibilité de retirer jusqu'à 5 000€ par semaine, ce qui est un autre point positif. Les retraits sont toujours traités très rapidement, généralement dans les 24 heures suivant la demande. Le site est également très fluide et facile à utiliser, que ce soit sur ordinateur ou sur mobile.",
+      "",
+      "Le Sultan tient à accueillir dignement ses invités dans son palais. C'est pourquoi il vous offre un bonus de bienvenue de 100 % jusqu'à 500 € + 20 tours gratuits sur votre premier dépôt."
+    ],
+    "description_avis": [
+      "Wild Sultan est un casino en ligne créé en 2015. Il propose une large sélection de jeux de en ligne, dont des machines à sous, des jeux de table tels que le blackjack, la roulette, le baccarat, le poker, et bien d'autres encore.",
+      "",
+      "Le site web de Wild Sultan est très bien conçu et facile à naviguer, avec une interface utilisateur intuitive qui permet aux joueurs de trouver facilement les jeux qu'ils cherchent. Le casino en ligne offre également des promotions attractives, des bonus gratuits et des tournois de temps en temps pour ses joueurs, ainsi qu'un programme de cashback sur chaque dépôt.",
+      "",
+      "Wild Sultan est également connu pour sa politique de retrait avantageuse, avec la possibilité de retirer jusqu'à 5 000€ par semaine et des délais de traitement rapides (généralement dans les 24 heures). Le casino en ligne offre également un traitement de retrait en moins de 24 heures pour les joueurs VIP avec un plafond de retrait hebdomadaire de 10 000€.",
+      "",
+      "En outre, Wild Sultan est un casino en ligne légitime et réglementé, avec une licence de jeu délivrée par le gouvernement de Curaçao. Le site utilise des technologies de sécurité avancées pour protéger les données personnelles et les transactions financières de ses joueurs.",
+      "",
+      "En résumé, Wild Sultan est un casino en ligne fiable et attrayant pour les joueurs qui cherchent une expérience de jeu en ligne de haute qualité."
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Prince Ali",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "120%",
+    "bonus_1_jusqua": "jusqu'à 1000€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "8€",
+    "bonus_1_depot_min": "25€",
+    "bonus_2_bonus": "120%",
+    "bonus_2_jusqua": "jusqu'à 1000€",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "8€",
+    "bonus_2_depot_min": "25€",
+    "bonus_3_bonus": "120%",
+    "bonus_3_jusqua": "jusqua 1000€",
+    "bonus_3_wager": "x",
+    "bonus_3_bet_max": "8€",
+    "bonus_3_depot_min": "25€",
+    "note_casino": "9.2\/10",
+    "lien_affilie": "https://princeali.casino",
+    "lien_classique": "princeali.casino",
+    "New": "non",
+    "wager": "non",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "oui",
+    "img_logo": "https://zupimages.net/up/23/18/t7r4.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2020",
+    "methode_de_retrait_1": "Transfert bancaire\n2-3J\n",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "description_casino": [
+      "Il y a plusieurs raisons pour lesquelles les joueurs pourraient choisir de jouer sur Prince Ali. Tout d'abord, en entrant le code bonus 'BONUS10FREE' lors de votre inscription, vous recevrez instantanément 10€ sur votre compte joueur retirables.",
+      "",
+      "Le site offre une ludothèque impressionnante de plus de 3 500 jeux, ce qui signifie qu'il y a une grande variété de jeux de qualité supérieure disponibles pour tous les goûts et préférences.",
+      "",
+      "De plus, le bonus de bienvenue de trois dépôts jusqu'à 1 000 € pour un total de 3000€ est exceptionnel et offre aux nouveaux joueurs une chance de commencer leur expérience de jeu sur le site avec une solide base financière.",
+      "",
+      "De plus, les bonus sans conditions de mise sont une excellente opportunité pour les joueurs de profiter pleinement de leur expérience de jeu sans avoir à remplir des exigences de mise contraignantes."
+    ],
+    "description_avis": [
+      "Le casino Prince Ali est un casino en ligne qui offre une expérience de jeu immersive avec une variété de jeux de casino populaires. Lancé en 2020, ce casino est réglementé et autorisé par le gouvernement de Curaçao, garantissant ainsi une sécurité et une fiabilité optimales pour les joueurs.",
+      "",
+      "Prince Ali Casino propose une grande sélection de machines à sous, de jeux de table, de jeux de vidéo poker et de jeux en direct pour répondre aux préférences de chaque joueur. De plus, le site web est disponible en plusieurs langues pour offrir une expérience de jeu personnalisée et adaptée à chaque joueur.",
+      "",
+      "En outre, Prince Ali Casino offre des bonus et des promotions intéressantes, notamment un bonus de bienvenue pour les nouveaux joueurs et des promotions régulières pour les joueurs existants.",
+      "",
+      "Les méthodes de paiement sont variées, sûres et fiables, avec des options pour les dépôts et les retraits. Enfin, le support client est disponible 24 heures sur 24, 7 jours sur 7, pour répondre à toutes les questions et préoccupations des joueurs.",
+      "",
+      "En somme, Prince Ali Casino offre une expérience de jeu de haute qualité avec une sécurité et une fiabilité optimales pour les joueurs. Si vous cherchez un casino en ligne fiable et passionnant pour votre prochaine session de jeu, Prince Ali Casino peut être un excellent choix."
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "Nevadawin",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu'à 1000€",
+    "bonus_1_wager": "x30",
+    "bonus_1_bet_max": "8€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "100%",
+    "bonus_2_jusqua": "jusqu'à 1000€",
+    "bonus_2_wager": "x30",
+    "bonus_2_bet_max": "8€",
+    "bonus_2_depot_min": "20€",
+    "note_casino": "9.1\/10",
+    "lien_affilie": "https://nevadawin.com",
+    "lien_classique": "nevadawin.com",
+    "New": "non",
+    "wager": "oui",
+    "Free money": "oui",
+    "Free spins offert": "ouii",
+    "Crypto casino": "oui",
+    "PayPal": "oui",
+    "img_logo": "https://zupimages.net/up/23/18/4c5l.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2021",
+    "methode_de_retrait_1": "Transfert bancaire\n2-3J\n",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "description_casino": [
+      "Nevadawin Casino est un casino en ligne relativement nouveau qui offre une large gamme de jeux de casino en ligne.",
+      "",
+      "Le casino propose également des promotions régulières, notamment un bonus de bienvenue pour les nouveaux joueurs, ainsi que des bonus de dépôt et des tours gratuits. Les joueurs peuvent effectuer des transactions en utilisant différentes méthodes de paiement populaires, telles que les cartes de crédit, les portefeuilles électroniques et les virements bancaires."
+    ],
+    "description_avis": [
+      "NevadaWin casino créé en 2021, il est la propriété de Betrust Entertainment B.V.",
+      "",
+      "Le site de NevadaWin a été conçu avec une interface intuitive et conviviale, permettant aux utilisateurs de naviguer facilement et de trouver rapidement leur jeu préféré. Outre la large gamme de jeux de casino proposée, NevadaWin offre également des promotions et des bonus attrayants pour les nouveaux joueurs ainsi que pour les joueurs réguliers.",
+      "",
+      "Nevadawin vous offre 10€ gratuits à l’inscription pour découvrir le casino avec le code NEVADAWIN10",
+      "",
+      "La plateforme dispose également d'un service clientèle disponible 24 heures sur 24 et 7 jours sur 7, avec des agents de support dévoués pour répondre aux questions et aux préoccupations des joueurs."
+    ]
+  },
+  {
+    "id": 7,
+    "nom": "Boomerang",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "non",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "Jusqu'à 750€",
+    "bonus_1_wager": "x30",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "note_casino": "9,3\/10",
+    "lien_affilie": "https://boomerang-casinos.com",
+    "lien_classique": "boomerang-casinos.com",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/q90g.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2020",
+    "methode_de_retrait_1": "Transfert bancaire\n3-4J",
+    "methode_de_retrait_2": "Cryptomonnaie\n48H\n",
+    "lien_banierre": "https://zupimages.net/up/23/20/ofqc.png",
+    "description_casino": [
+      "Boomerang Casino est un site de jeu en ligne qui a ouvert ses portes en 2020. La plateforme appartient à Rabidi NV, qui possède d'autres casinos en ligne tels que , 7Signs, 5Gringos et bien d'autres. Avec sa licence de jeu e-gaming enregistrée à Curaçao, Boomerang Casino offre un niveau de sécurité et de fiabilité élevé aux joueurs.",
+      "",
+      "Pour attirer les nouveaux joueurs, Boomerang Casino propose une offre de bienvenue alléchante. Vous pouvez bénéficier d'un bonus de bienvenue de 100% jusqu'à 500€ et de 200 tours gratuits. Cette offre promet une expérience de jeu encore plus excitante.",
+      "",
+      "Notre équipe d'experts analyse minutieusement chaque aspect de chaque casino avant de les proposer sur notre site. Nous évaluons la qualité du design, les promotions et le bonus de bienvenue, les méthodes de paiement, la qualité des jeux proposés, l'efficacité du service client et bien d'autres aspects.",
+      "",
+      "Vous pouvez être sûr que Boomerang Casino a été sélectionné pour sa qualité et sa fiabilité."
+    ],
+    "description_avis": [
+      "Avec plus de 5 000 jeux disponibles, incluant des machines à sous, des jeux de table (comme la roulette, le blackjack, le baccarat, le poker et le vidéo poker), et bien sur le live casino Boomerang Casino est une plateforme de jeux de casino en ligne extrêmement complète.",
+      "",
+      "En plus d'un design agréable et d'une interface bien pensée pour des sessions de jeu intenses, les joueurs peuvent bénéficier de différentes promotions, d'un service client disponible 24/7, d'une version mobile optimisée, de plusieurs méthodes de paiement et d'un bonus de bienvenue très attractif.",
+      "",
+      "Les services proposés par Boomerang Casino sont bien supérieurs à ceux de la plupart de ses concurrents. Il est intéressant de noter que nombreux sont les joueurs qui reviennent jouer sur Boomerang Casino après l'avoir testé, ce qui témoigne de la qualité de cette plateforme."
+    ]
+  },
+  {
+    "id": 8,
+    "nom": "Fgfox",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "Jusqu'à 100€",
+    "bonus_1_wager": "x40",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "50%",
+    "bonus_2_jusqua": "jusqu’à 300€",
+    "bonus_2_wager": "x40",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "20€",
+    "bonus_3_bonus": "100%",
+    "bonus_3_jusqua": "jusqua 1000€x40",
+    "bonus_3_bet_max": "5€",
+    "bonus_3_depot_min": "200€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://fgfox.com",
+    "lien_classique": "fgfox.com",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/o5rl.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2022",
+    "methode_de_retrait_1": "Transfert bancaire\n3J",
+    "methode_de_retrait_2": "Cryptomonnaie",
+    "lien_banierre": "https://zupimages.net/up/23/20/crdr.png",
+    "description_casino": [
+      "Le projet a été créé en 2022, mais grâce à la gestion compétente de l’opérateur FairGame G.P. N.V., il est devenu presque immédiatement connu dans le monde entier, FgFox Casino opère sous la licence Curaçao.",
+      "",
+      "Donc, vous pouvez être sûr de l'honnêteté du gameplay. Lors de votre premier dépôt, bénéficiez d'un bonus de 100% jusqu'à 100€ ainsi que 100 tours gratuits offerts. Pour votre second dépôt, profitez d'un bonus de 50% jusqu'à 300€ + 50 tours gratuits supplémentaires.",
+      "",
+      "De plus, vous pourrez retirer jusqu'à un maximum de 30 000 euros par mois, ne tardez plus et découvrez par vous-même ce casino en ligne dès maintenant !"
+    ],
+    "description_avis": [
+      "FGFox est un casino en ligne tout à fait intéressant qui offre une expérience utilisateur agréable. Le design coloré est une véritable réussite et permet aux joueurs de profiter pleinement de toutes les fonctionnalités proposées.",
+      "",
+      "En effet, effectuer un dépôt, un retrait ou contacter le service client est un jeu d'enfant, tout comme jouer à une large sélection de jeux ou découvrir les différentes promotions et tournois en cours.",
+      "",
+      "Sans oublier la mise en avant du Club VIP qui permet aux joueurs fidèles de bénéficier d'avantages exclusifs.",
+      "",
+      "Bien que certains points puissent être améliorés, FGFox reste un excellent choix pour les joueurs à la recherche d'un casino en ligne de qualité."
+    ]
+  },
+  {
+    "id": 9,
+    "nom": "Wizebets",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "Jusqu'à 100€",
+    "bonus_1_wager": "x40",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "50%",
+    "bonus_2_jusqua": "Jusqu’à 300€",
+    "bonus_2_wager": "x40",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "20€",
+    "note_casino": "9,5\/10",
+    "lien_affilie": "https://wizebets.com",
+    "lien_classique": "wizebets.com",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/h23v.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2023",
+    "methode_de_retrait_1": "Transfert bancaire\n3J",
+    "methode_de_retrait_2": "Cryptomonnaie\nINSTANTANÉ",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/a9y7.png",
+    "description_casino": [
+      "Wizebets est une plateforme de jeux d’argent qui a récemment ouvert ses portes, en début d'année 2023.",
+      "",
+      "Le site web est magnifiquement conçu avec une interface épurée qui offre une expérience de jeu en ligne immersive et simplifiée. Si vous êtes un amateur de casino en ligne, vous allez adorer les fonctionnalités conviviales de Wizebets.",
+      "",
+      "De plus, le site propose une offre de bienvenue très attractive pour les nouveaux joueurs. Vous pouvez bénéficier d'un bonus de 100% jusqu'à 100€ ainsi que de 100 tours gratuits sur votre premier dépôt. En outre, pour votre deuxième dépôt, Wizebets propose un bonus de 50% jusqu'à 300€ et 50 tours gratuits.",
+      "",
+      "La sélection de jeux proposée par Wizebets est impressionnante et comprend une variété de machines à sous et de jeux de casino en direct.",
+      "",
+      "Le site s'efforce de maintenir une ambiance de jeu passionnante et immersive pour tous les joueurs, avec des graphismes époustouflants et une expérience utilisateur fluide.",
+      "",
+      "En résumé, Wizebets est un casino en ligne captivant qui mérite une visite pour tous les passionnés de jeux d'argent."
+    ],
+    "description_avis": [
+      "Après une analyse approfondie de la plateforme de jeux d’argent Wizebets, nous pouvons affirmer qu’elle est excellente sous tous les aspects.",
+      "",
+      "Le site web offre une interface colorée et un design épuré, qui rendent la navigation très facile grâce à ses onglets de navigation bien organisés.",
+      "",
+      "De plus, Wizebets offre une multitude de promotions régulières, dont un bonus de bienvenue très attractif sur vos deux premiers dépôts. Avec ce bonus, vous pouvez bénéficier d'un bonus de 100% jusqu'à 100€ et de 100 tours gratuits sur votre premier dépôt, et d'un bonus de 50% jusqu'à 300€ avec 50 tours gratuits sur votre deuxième dépôt.",
+      "",
+      "Toutefois, il est important de noter que ces offres sont soumises à des conditions. En somme, ces bonus sont une excellente opportunité pour maximiser vos gains et votre expérience de jeu.",
+      "",
+      "Par ailleurs, les plafonds de retrait proposés par Wizebets sont très généreux, à savoir 5 000€ par jour, 10 000€ par semaine et 30 000€ par mois. Ces limites élevées vous permettent de profiter pleinement de vos gains."
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "Win VegasPlus",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "125%",
+    "bonus_1_jusqua": "Jusqu’à 750€",
+    "bonus_1_wager": "x60",
+    "bonus_1_depot_min": "10€",
+    "bonus_2_bonus": "200%",
+    "bonus_2_jusqua": "Jusqu’à 500€",
+    "bonus_2_wager": "x60",
+    "bonus_2_depot_min": "10€",
+    "bonus_3_bonus": "100%",
+    "bonus_3_jusqua": "Jusqu’à 1 000€",
+    "bonus_3_wager": "x60",
+    "bonus_3_depot_min": "10€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://.winvegasplus-score.com",
+    "lien_classique": ".winvegasplus-score.com",
+    "New": "non",
+    "wager": "oui",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/86ls.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2019",
+    "methode_de_retrait_1": "\nTransfert bancaire\n24H\n",
+    "methode_de_retrait_2": "Cryptomonnaie\nINSTANTANÉ",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/aqqz.png",
+    "description_casino": [
+      "Win VegasPlus est un casino en ligne fiable et sécurisé qui a su gagner la confiance de nombreux joueurs grâce à la qualité de ses services. Depuis sa sortie en 2019, il a amélioré considérablement son offre de jeux et ses fonctionnalités pour vous offrir une expérience de jeu en ligne de qualité.",
+      "",
+      "VegasPlus accueille les nouveaux joueurs avec un pack de bienvenue attractif qui s'étend sur leurs trois premiers dépôts. Cette offre de bonus n'est pas obligatoire, mais elle est fortement recommandée pour maximiser l'expérience de jeu. Sur votre premier dépôt, recevez un bonus de 125% jusqu'à 750€, sur votre second dépôt, réclamez un bonus de 200% jusqu'à 500€ et pour votre dernier dépôt, bénéficiez d'un bonus de 100% jusqu'à 1 000€.",
+      "",
+      "Bien que VegasPlus n'ait peut-être pas le design le plus moderne, il propose une expérience de jeu de qualité grâce à sa large sélection de jeux et à sa fiabilité."
+    ],
+    "description_avis": [
+      "VegasPlus est un casino en ligne qui a réussi à se faire une place dans l'industrie en peu de temps. Depuis sa sortie en 2019, il a amélioré considérablement son offre de jeux et ses fonctionnalités pour vous offrir une expérience de jeu en ligne de qualité.",
+      "",
+      "VegasPlus accueille les nouveaux joueurs avec un pack de bienvenue attractif qui s'étend sur leurs trois premiers dépôts. Cette offre de bonus n'est pas obligatoire, mais elle est fortement recommandée pour maximiser l'expérience de jeu. Sur votre premier dépôt, recevez un bonus de 125% jusqu'à 750€, sur votre second dépôt, réclamez un bonus de 200% jusqu'à 500€ et pour votre dernier dépôt, bénéficiez d'un bonus de 100% jusqu'à 1 000€.",
+      "",
+      "Bien que VegasPlus ait été créé en 2019 et qu'il n'ait peut-être pas le design le plus moderne, il propose une expérience de jeu de qualité grâce à sa large sélection de jeux et à sa fiabilité. De plus, il offre des bonus de bienvenue attractifs pour les nouveaux joueurs sur leurs trois premiers dépôts."
+    ]
+  },
+  {
+    "id": 11,
+    "nom": "Win MaChance",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "150%",
+    "bonus_1_jusqua": "Jusqu’à 500€",
+    "bonus_1_wager": "x45",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "100%",
+    "bonus_2_jusqua": "Jusqu’à 1 000€",
+    "bonus_2_wager": "x45",
+    "bonus_2_depot_min": "20€",
+    "bonus_3_bonus": "75%",
+    "bonus_3_jusqua": "Jusqu’à 1 000€",
+    "bonus_3_wager": "x45",
+    "bonus_3_depot_min": "20€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://winmachancecasino-act.com",
+    "lien_classique": "winmachancecasino-act.com",
+    "New": "non",
+    "wager": "oui",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https:\/\/zupimages.net\/up\/23\/17\/p1ex.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2018",
+    "methode_de_retrait_1": "\nTransfert bancaire\n24H\n",
+    "methode_de_retrait_2": "Cryptomonnaie\nINSTANTANÉ",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/auyk.jpgg",
+    "description_casino": [
+      "MaChance, maintenant connu sous le nom de Win MaChance, est un casino en ligne de qualité supérieure qui a été créé en 2018. Avec une interface utilisateur attrayante et conviviale, le casino offre une expérience de jeu en ligne exceptionnelle. En outre, le casino propose une offre de bienvenue très intéressante pour les nouveaux joueurs, ainsi que la possibilité de faire des dépôts en cryptomonnaie. Cependant, le casino pourrait améliorer en ajoutant plus de fournisseurs de jeux et en offrant des promotions plus régulières. Il convient également de noter que le montant maximum de retrait est actuellement assez bas et que les retraits ne peuvent être effectués que par virement bancaire.",
+      ""
+    ],
+    "description_avis": [
+      "Win MaChance est un casino en ligne fiable créé en 2018 par la société Logia N.V. Avec son offre de bienvenue exceptionnelle qui s'étend sur les trois premiers dépôts, ce casino offre une expérience de jeu en ligne de qualité supérieure. Cependant, il pourrait améliorer en ajoutant plus de fournisseurs de jeux et en offrant des promotions plus régulières. De plus, le montant maximum de retrait est actuellement assez bas, mais le casino accepte les dépôts en cryptomonnaie, ce qui est un avantage pour les joueurs qui préfèrent cette méthode de paiement. En résumé, Win MaChance est un casino en ligne solide avec un potentiel d'amélioration."
+    ]
+  },
+  {
+    "id": 12,
+    "nom": "Win Unique Casino",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "oui",
+    "bonus_1_bonus": "200%",
+    "bonus_1_jusqua": "Jusqu’à 500€",
+    "bonus_1_wager": "x25",
+    "bonus_1_depot_min": "15€",
+    "bonus_2_bonus": "150%",
+    "bonus_2_jusqua": "jusqu’à 500€",
+    "bonus_2_wager": "x25",
+    "bonus_2_depot_min": "15€",
+    "bonus_3_bonus": "100%",
+    "bonus_3_jusqua": "jusqu’à 1000€",
+    "bonus_3_wager": "x25",
+    "bonus_3_depot_min": "15€",
+    "note_casino": "9\/10",
+    "lien_affilie": "https://winuniquecasino-wild.com",
+    "lien_classique": "winuniquecasino-wild.com",
+    "New": "non",
+    "wager": "oui",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/fyx3.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2018",
+    "methode_de_retrait_1": "\nTransfert bancaire\n24H\n",
+    "methode_de_retrait_2": "Cryptomonnaie\nINSTANTANÉ",
+    "lien_banierre": "https:\/\/zupimages.net\/up\/23\/17\/ajsp.png",
+    "description_casino": [
+      "Win Unique est un casino en ligne fiable qui a été créé en 2018 par la société Logia N.V., également exploitante des casinos Win MaChance et Win Unique Casino.",
+      "",
+      "Ce casino en ligne possède deux atouts majeurs qui le distinguent de ses concurrents. Tout d'abord, il offre un excellent bonus de bienvenue à ses nouveaux joueurs. Et l'un de ses plus gros avantages est qu'il n'impose aucune condition de mise sur les bonus de bienvenue. Vous pourrez profiter d'un pack de bienvenue jusqu'à 2 000€ sur ce casino en ligne. Ce pack vous permettra de bénéficier de soldes boostés lors de vos trois premiers dépôts, ce qui augmentera considérablement vos chances de gagner de gros gains."
+    ],
+    "description_avis": [
+      "Win Unique Casino est une plateforme de jeu en ligne qui vous récompense dès votre inscription en vous offrant 10€ sans dépôt requis.",
+      "",
+      "En plus de cette offre, le casino propose également des bonus de dépôt généreux pour les joueurs qui effectuent leur premier dépôt. Il est important de noter que contrairement à certains autres casinos, Win Unique n'impose pas de limite de mise maximale lors de l'utilisation de bonus, offrant ainsi une plus grande liberté aux joueurs.",
+      "",
+      "Il vous propose des bonus de premier dépôt que l'on ne trouve pas partout. 1er dépôt 200% jusqu’à 500€, 2e dépôt 150% jusqu’à 500€, 3e dépôt 100% jusqu’à 1 000€."
+    ]
+  },
+  {
+    "id": 13,
+    "nom": "Jackbit",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "non",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://jackbit.com",
+    "lien_classique": "jackbit.com",
+    "New": "oui",
+    "wager": "non",
+    "Free money": "non",
+    "Free spins offert": "non",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https://zupimages.net/up/23/18/u8n5.png",
+    "Free spins offered": "non",
+    "methode_de_retrait_2": "Cryptomonnaie INSTANTANÉ",
+    "description_casino": [
+      "JackBit Casino est un casino en ligne spécialisé dans les transactions en crypto-monnaies. Avec des transactions possibles dans 14 des crypto-monnaies les plus populaires au monde, cet établissement géré par Ryker B.V. et accrédité par le gouvernement de Curaçao offre une gamme complète de services et une expérience de jeu intéressante.",
+      "",
+      "Bien que l'offre de bonus soit plutôt limitée, le casino organise régulièrement des tournois avec des cagnottes importantes. Il est également possible que l'opérateur envisage d'étoffer son offre à l'avenir.",
+      "",
+      "En somme, JackBit Casino est une option intéressante pour les joueurs qui cherchent à utiliser les crypto-monnaies dans l'industrie du pari en ligne."
+    ],
+    "description_avis": [
+      "Bien que l'offre de bonus de JackBit Casino soit plutôt limitée, le casino compense cela en organisant régulièrement des tournois avec des cagnottes importantes. Cet établissement est relativement récent sur le marché, étant lancé en 2022, il est possible que l'opérateur envisage d'étoffer son offre à l'avenir.",
+      "",
+      "La gamme de services proposée par le casino mérite cependant d'être examinée, en particulier en ce qui concerne les options de divertissement. En effet, avec des transactions possibles dans 14 des crypto-monnaies les plus populaires au monde, JackBit Casino offre une expérience de jeu intéressante pour les joueurs qui cherchent à utiliser les crypto-monnaies dans l'industrie du pari en ligne."
+    ]
+  },
+  {
+    "id": 14,
+    "nom": "PlanetSpin",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "non",
+    "bonus_1_bonus": "120%",
+    "bonus_1_jusqua": "Jusqu’à 1000€",
+    "bonus_1_wager": "x25",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "10€",
+    "bonus_2_bonus": "110%",
+    "bonus_2_jusqua": "jusqu’à 1000€",
+    "bonus_2_wager": "x25",
+    "bonus_2_bet_max": "5€",
+    "bonus_2_depot_min": "10€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://planetspin.casino",
+    "lien_classique": "planetspin.casino",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "oui",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "img_logo": "https:\/\/zupimages.net\/up\/23\/17\/qiyb.png",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2023",
+    "methode_de_retrait_1": "Transfert bancaire\n3J",
+    "methode_de_retrait_2": "Cryptomonnaie 48h",
+    "description_casino": [
+      "PlanetSpin Casino est un casino en ligne révolutionnaire qui offre une gamme d'options de jeu passionnantes à ses joueurs, allant des machines à sous, du casino en direct, du casino virtuel et des jeux intensifs, répondant aux diverses préférences des joueurs.",
+      "",
+      "S'inscrire à PlanetSpin Casino offre non seulement la possibilité de découvrir les derniers jeux des meilleurs fournisseurs, mais offre également aux joueurs plusieurs avantages, notamment l'accès à des promotions et des bonus passionnants, et la possibilité de rejoindre une communauté de joueurs partageant les mêmes idées qui partagent une passion pour le jeu."
+    ],
+    "description_avis": [
+      "PlanetSpin Casino offre un package de bienvenue exceptionnel qui le distingue des autres casinos en ligne. Non seulement vous pouvez recevoir jusqu'à 2000€ de bonus et 100 free spins sur vos deux premiers dépôts, mais vous pouvez également profiter de bonus supplémentaires tels que le bonus illimité de 25% ou 50% + 50 free spins pendant le week-end.",
+      "",
+      "De plus, en vous inscrivant via notre lien, vous pouvez réclamer un bonus gratuit exclusif de 10 € qui sera crédité sur votre profil dans la section bonus. Cela signifie que même après avoir utilisé votre package de bienvenue, vous pouvez toujours bénéficier d'une gamme de bonus et de promotions passionnants qui amélioreront votre expérience de jeu sur PlanetSpin Casino."
+    ]
+  },
+  {
+    "id": 15,
+    "nom": "5Gringos",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "non",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu’à 500€",
+    "bonus_1_wager": "x35",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://5gringos1.com",
+    "lien_classique": "5gringos1.com",
+    "img_logo": "https://zupimages.net/up/23/18/lx10.png",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2020",
+    "methode_de_retrait_1": "Transfert bancaire\n1-2J",
+    "methode_de_retrait_2": "Cryptomonnaie 48h",
+    "description_casino": [
+      "5Gringos est un casino en ligne récemment lancé qui propose une gamme complète de jeux de casino en ligne pour une expérience de jeu exceptionnelle. Le site est disponible dans plus de 20 langues différentes pour permettre une expérience de jeu fluide et adaptée à tous les joueurs. 5Gringos est sous la propriété et la gestion de Rabidi N.V., une société qui opère conformément aux lois en vigueur dans l'État de Curaçao.",
+      "",
+      "En ce qui concerne les bonus offerts par 5Gringos, la sélection est assez impressionnante. Chaque personnage du jeu propose une offre de bienvenue spécifique, ce qui vous permet de bénéficier d'un bonus adapté à vos préférences. 5Gringos a également développé diverses fonctionnalités pour divertir ses joueurs, telles que les trophées à débloquer, le champ de tir pour tester vos compétences, les braquages pour gagner des récompenses supplémentaires, ainsi qu'une boutique où vous pouvez échanger vos points contre des bonus exclusifs.",
+      "",
+      "De plus, 5Gringos propose un programme VIP attractif pour récompenser ses joueurs les plus fidèles, ainsi qu'un chat en direct disponible 24h/7j pour répondre à toutes vos questions et préoccupations. Vous pouvez également découvrir de nombreuses autres surprises en explorant le site. En outre, le casino offre une ludothèque très variée et captivante pour les joueurs, avec plus de 4100 jeux de machines à sous et de casino en direct fournis par 44 fournisseurs différents."
+    ],
+    "description_avis": [
+      "5Gringos est un casino en ligne avec une gamme complète de jeux de casino en ligne pour une expérience de jeu exceptionnelle. Les bonus offerts par 5Gringos sont assez impressionnants, chaque personnage du jeu propose une offre de bienvenue spécifique adaptée à vos préférences. De plus, 5Gringos a développé de nombreuses fonctionnalités pour divertir ses joueurs. Le casino offre également un programme VIP attractif pour récompenser ses joueurs les plus fidèles et un chat en direct disponible 24h/7j pour répondre à toutes vos questions et préoccupations. Le casino dispose d'une ludothèque très variée et captivante avec plus de 4100 jeux de machines à sous et de casino en direct fournis par 44 fournisseurs différents."
+    ]
+  },
+  {
+    "id": 16,
+    "nom": "7Signes",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "non",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu’à 500€",
+    "bonus_1_wager": "x35",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "100%",
+    "bonus_2_jusqua": "jusqu’à 100€",
+    "bonus_2_wager": "x5",
+    "bonus_2_bet_max": "50€",
+    "bonus_2_depot_min": "20€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://7signs1.com\n",
+    "lien_classique": "7signs1.com\n",
+    "img_logo": "https://zupimages.net/up/23/18/solp.jpg",
+    "New": "non",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2020",
+    "methode_de_retrait_1": "Transfert bancaire\n1-2J",
+    "methode_de_retrait_2": "Cryptomonnaie 48h",
+    "description_casino": [
+      "7Signs est un casino en ligne relativement nouveau qui a été lancé en 2020. La plateforme appartient à Rabidi N.V, une entreprise bien établie dans l'industrie des jeux d'argent en ligne. Depuis son lancement, 7Signs a connu une croissance rapide et est devenu un choix populaire parmi les amateurs de casino en ligne.",
+      "",
+      "Avec une licence de jeu de Curaçao et un système de sécurité de haute qualité, les joueurs peuvent être sûrs que leur expérience de jeu sera à la fois équitable et sûre. En plus de sa gamme de jeux passionnants, 7Signs offre également de nombreux bonus et promotions, y compris un pack de bienvenue généreux pour les nouveaux joueurs. La variété des bonus de bienvenue est l'un des points forts du casino en ligne 7Signs. La plateforme de jeux propose sept bonus de bienvenue dont un pack de bienvenue."
+    ],
+    "description_avis": [
+      "La variété et la générosité des bonus de bienvenue font partie des points forts du casino en ligne 7Signs. La plateforme de jeux propose sept bonus de bienvenue différents, dont un pack de bienvenue qui offre de nombreux avantages. En plus de ce bonus, les joueurs peuvent également bénéficier d'autres promotions et offres spéciales tout au long de leur expérience de jeu sur 7Signs.",
+      "",
+      "Avec sa sélection de jeux de qualité, son système de sécurité fiable et sa licence de jeu de Curaçao, 7Signs est une destination de choix pour les amateurs de casino en ligne. Depuis son lancement en 2020, la plateforme de jeux a connu une croissance rapide et est devenue un choix populaire parmi les joueurs. Les joueurs peuvent être sûrs que leur expérience de jeu sur 7Signs sera équitable et sécurisée."
+    ]
+  },
+  {
+    "id": 17,
+    "nom": "Amunra",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "non"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "non"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "non"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu’à 500€",
+    "bonus_1_wager": "x35",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://amunra1.com",
+    "lien_classique": "amunra1.com",
+    "img_logo": "https://zupimages.net/up/23/18/q17t.png",
+    "New": "oui",
+    "wager": "oui",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2020",
+    "methode_de_retrait_1": "Transfert bancaire\n2-3J",
+    "methode_de_retrait_2": "Cryptomonnaie 2-3J",
+    "lien_banierre": "https://zupimages.net/up/23/20/xzkv.png",
+    "description_casino": [
+      "AmunRa est un casino en ligne récemment établi en 2020. Il propose une large sélection de jeux, ainsi que deux bonus de bienvenue et différentes promotions attrayantes.",
+      "",
+      "Le premier bonus est un bonus de bienvenue de 100% jusqu'à 500€+ 100 tours gratuits. Pour en profiter, vous devrez effectuer un dépôt minimum de 20€. Le deuxième bonus est un Cashback de 10% jusqu'à 200€. En plus de sa gamme de jeux passionnants, AmunRa offre un pack de bienvenue généreux pour les nouveaux joueurs. La variété des bonus de bienvenue est l'un des points forts du casino en ligne AmunRa."
+    ],
+    "description_avis": [
+      "AmunRa fait partie du groupe Rabidi NV, tout comme les plateformes 5Gringos, 7Signs, Slots etc. De plus, le casino est régulé par la licence de jeux de Curaçao. C'est un site qui réserve de nombreuses surprises et offre des fonctionnalités intéressantes. N'hésitez plus et partez à sa découverte!",
+      "",
+      "Avec sa sélection de jeux de qualité, son système de sécurité fiable et sa licence de jeu de Curaçao, 7Signs est une destination de choix pour les amateurs de casino en ligne. Depuis son lancement en 2020, la plateforme de jeux a connu une croissance rapide et est devenue un choix populaire parmi les joueurs. Les joueurs peuvent être sûrs que leur expérience de jeu sur 7Signs sera équitable et sécurisée."
+    ]
+  },
+  {
+    "id": 18,
+    "nom": "Banzai Slots",
+    "methodes_paiement": [
+      {
+        "nom": "Visa",
+        "disponible": "oui"
+      },
+      {
+        "nom": "MasterCard",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paypal",
+        "disponible": "non"
+      },
+      {
+        "nom": "Crypto",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Cashlib",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neteller",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Skrill",
+        "disponible": "oui"
+      },
+      {
+        "nom": "Paysafecard",
+        "disponible": "non"
+      },
+      {
+        "nom": "Neosurf",
+        "disponible": "oui"
+      }
+    ],
+    "bonus_1": "oui",
+    "bonus_2": "oui",
+    "bonus_3": "non",
+    "bonus_1_bonus": "100%",
+    "bonus_1_jusqua": "jusqu’à 250€",
+    "bonus_1_wager": "x",
+    "bonus_1_bet_max": "5€",
+    "bonus_1_depot_min": "20€",
+    "bonus_2_bonus": "free spin",
+    "bonus_2_jusqua": "200 free spins",
+    "bonus_2_wager": "x",
+    "bonus_2_bet_max": "x",
+    "bonus_2_depot_min": "30€",
+    "note_casino": "9,1\/10",
+    "lien_affilie": "https://banzaislots.com",
+    "lien_classique": "banzaislots.com",
+    "img_logo": "https://zupimages.net/up/23/18/xgol.jpg",
+    "New": "non",
+    "wager": "non",
+    "Free money": "non",
+    "Free spins offert": "oui",
+    "Crypto casino": "oui",
+    "PayPal": "non",
+    "Free spins offered": "oui",
+    "En_ligne_depuis": "2019",
+    "methode_de_retrait_1": "Transfert bancaire\n2-3J",
+    "lien_banierre": "https://zupimages.net/up/23/20/6kj7.png",
+    "description_casino": [
+      "Banzai Slots est un casino en ligne créé en 2019 par la société Mountberg Limited, qui gère également d'autres casinos en ligne tels que Lucky Luke ou encore Sticky Wilds.",
+      "",
+      "Ce casino se démarque par ses bonus sans conditions de mise, ce qui signifie que vous pouvez déposer et retirer à tout moment sans être soumis à des exigences de mise pour pouvoir retirer vos gains. Profitez d'un bonus de 100% et de 250 tours gratuits sur votre premier dépôt (à partir de 20€). Pour le deuxième dépôt (à partir de 30€), obtenez 200 tours gratuits sur le jeu Hanzo's Dojo.",
+      "",
+      "Banzai Slots offre une large gamme de jeux, notamment des machines à sous, des jeux de table et des séances de jeu en direct. Les joueurs peuvent choisir parmi des jeux signés par les meilleurs éditeurs de l'iGaming."
+      ],
+      "description_avis": [
+        "Banzai Slots est un casino en ligne populaire auprès des joueurs en raison de ses bonus sans conditions de mise. Les joueurs peuvent déposer et retirer à tout moment sans avoir à remplir des conditions strictes pour retirer leurs gains. De plus, le casino offre une large sélection de jeux de qualité, ce qui en fait une destination de choix pour les amateurs de casino en ligne.",
+        "",
+        "Le service client de Banzai Slots est disponible 7j/7 pour répondre à toutes les questions des joueurs. Avec ses bonus attractifs et sa gamme de jeux variée, Banzai Slots est un excellent choix pour les joueurs à la recherche d'une expérience de jeu de qualité en ligne."
+        ]
+  }
+]
