@@ -1,0 +1,131 @@
+button.btn.btn-primary {
+    background: linear-gradient(180deg, #F9BF12 0%, #AFF912 218.89%);
+}
+
+.page_depot_titre {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.page_depot_titre>h1 {
+    background: linear-gradient(180deg, #F9BF12 0%, #AFF912 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: calc(4500vw/1858);
+    font-family: sans-serif;
+    max-width: 1200px;
+}
+
+.div_filtre {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.btn-group {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    max-width: calc(1200px*0.6);
+}
+
+.btn-group>* {
+    width: 150px;
+    height: 70px;
+    margin: 8px;
+    background: #454540;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+.imageDepot {
+    background-image: url(https://zupimages.net/up/23/15/a5v4.png) ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 50vh;
+    width: 40%;
+    max-width: calc(1200px*0.4);
+}
+
+.cardsCasino {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1150px) {
+    .page_depot_titre>h1 {
+        font-size: calc(4500vw/1150);
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+
+    .page_depot_titre>h1 {
+        font-size: calc(4500vw/800);
+    }
+
+    .page_depot_titre>h1 {
+        width: 100%;
+    }
+
+
+
+}
+
+button>img{
+    transform: scale(0.8);
+}
+
+@media screen and (max-width: 1000px){
+    .imageDepot {
+        display: none;
+    }
+
+    .btn-group {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        max-width: calc(1200px*0.6);
+        justify-content: center;
+    }
+
+    .page_depot_titre{
+        transform: scale(0.9);
+    }
+}
+
+.ctn_expli{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.texte_explicatif{
+    width: 100%;
+    max-width: 1200px;
+    margin:5px 0;
+}
+
+
+.ctn_expli>h2{
+    margin-top: 20px;
+}
+
+@media (max-width: 1000px){
+    .ctn_expli>* {
+        width: 85%;
+    }
+  }
+  
+

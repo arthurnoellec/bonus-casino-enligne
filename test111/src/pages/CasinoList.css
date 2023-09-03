@@ -1,0 +1,170 @@
+input[type="checkbox"] {
+  display: none;
+}
+
+.filtreBTN {
+  background: linear-gradient(135deg, #0d0d0b 0%, #2c2c29 100%);
+  box-shadow: -5.40107px 5.40107px 10.8021px rgba(11, 11, 10, 0.2),
+    5.40107px -5.40107px 10.8021px rgba(11, 11, 10, 0.2),
+    -5.40107px -5.40107px 10.8021px rgba(43, 43, 40, 0.9),
+    5.40107px 5.40107px 13.7482px rgba(11, 11, 10, 0.9),
+    inset 0.491006px 0.491006px 0.982012px rgba(43, 43, 40, 0.3),
+    inset -0.491006px -0.491006px 0.982012px rgba(11, 11, 10, 0.5);
+  background-color: red;
+  padding: 20px;
+  margin: 0 20px;
+  border-radius: 80px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+}
+
+.lesFiltres {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0px);
+  width: 45%;
+}
+
+.checked {
+  background: linear-gradient(135deg, #F9BF12 0%, #E2FF31 100%);
+  box-shadow: 0px -1.96402px 5.40107px 1.47302px #F9BF12, 0px 1.96402px 5.40107px 0.982012px #E2FF31;
+}
+
+
+.titre_filtre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titre_filtre>span {
+  color: white;
+  font-size: 2em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.un_filtre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.un_filtre>span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.lalistos {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.lalistos>a {
+  text-decoration: none;
+}
+
+.exclu_icon {
+  position: relative;
+  top: 0px;
+  left: -2px;
+}
+
+.exclu-badge::before {
+  content: 'Exclu';
+  position: relative;
+  top: -3px;
+  left: 143px;
+  background: linear-gradient(135deg, #F9BF12 0%, #E2FF31 100%);
+  padding: 5px 10px;
+  height: 19px;
+  border-radius: 17px;
+  font-weight: 700;
+  color: #0d0d0b;
+}
+
+.exclu-badge {
+  margin-left: -64px;
+}
+
+.exclu-badge::before {
+  content: 'Exclu';
+  position: relative;
+  top: -3px;
+  left: 143px;
+  background: linear-gradient(135deg, #F9BF12 0%, #E2FF31 100%);
+  padding: 5px 10px;
+  height: 19px;
+  border-radius: 17px;
+  font-weight: 700;
+  color: #0d0d0b;
+}
+
+
+/* .after-badge::after {
+  content: '10 € offert';
+  position: absolute;
+  background: #9a12f9;
+  padding: 5px 10px;
+  height: 19px;
+  border-radius: 17px;
+  font-weight: 700;
+  color: #ffffff;
+} */
+
+.afterbadgefr::after {
+  content: '10 € offert';
+  position: absolute;
+  background: #9a12f9;
+  padding: 5px 10px;
+  height: 19px;
+  border-radius: 17px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.afterbadgeen::after {
+  content: '10 € offered';
+  position: absolute;
+  background: #9a12f9;
+  padding: 5px 10px;
+  height: 19px;
+  border-radius: 17px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.exclu-badge.after-badge::after {
+  margin-left: 60px;
+}
+
+.exclu-badge {
+  margin-left: -64px;
+}
+
+/* .after-badge {
+  margin-left: 96px;
+} */
+
+/* .exclu-badge.after-badge {
+  margin-left: 23px;
+} */
+
+
+@media only screen and (max-width: 600px) {
+  .un_filtre{
+    margin-top: 30px;
+  }
+}

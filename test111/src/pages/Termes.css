@@ -1,0 +1,17 @@
+.pageTerms {
+    margin:50px 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .containerTermes {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+  .containerTermes>*{
+    width: 100%;
+  }

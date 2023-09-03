@@ -1,0 +1,180 @@
+.titre_page_bonus {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33vh;
+}
+
+.div_titre {
+    max-width: 1000px;
+}
+
+.div_titre>h1 {
+    color: white;
+}
+
+.div_filtre {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+#bonusFilter {
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+    border: none;
+    width: 35%;
+    font-size: 1.2em;
+    color: white;
+    margin-bottom: 30px;
+}
+
+/* .lalistos:nth-child(1), .lalistos:nth-child(2), .lalistos:nth-child(3){
+    margin-left: -40px;
+} */
+
+
+.lalistos:nth-child(1)>a:before {
+    content: "N.1";
+    z-index: 20;
+    background-color: #fee404;
+    position: relative;
+    left: 150px;
+    top: 20px;
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+}
+
+.lalistos:nth-child(2)>a:before {
+    content: "N.2";
+    z-index: 20;
+    background-color: #727272;
+    position: relative;
+    left: 150px;
+    top: 20px;
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.lalistos:nth-child(3)>a:before {
+    content: "N.3";
+    z-index: 20;
+    background-color: #d58b31;
+    position: relative;
+    left: 150px;
+    top: 20px;
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.indexNav{
+    left: 0;
+}
+
+@media screen and (max-width: 1000px){
+    .div_titre>* {
+        margin-left: 0px;
+        width: auto;
+        transform: scale(0.9);
+    }
+}
+
+
+@media screen and (max-width: 700px){
+    .div_titre>* {
+        margin-left: 0px;
+        width: auto;
+        transform: scale(1);
+    }
+}
+
+.custom-select {
+    width: 500px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* .custom-select__control {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 40px;
+    outline: none;
+    cursor: pointer;
+    
+  } */
+  
+  .custom-select__control:hover {
+    border-color: #999;
+  }
+  
+  .custom-select__control--is-focused {
+    border-color: #555;
+    box-shadow: none;
+  }
+  
+  .custom-select__placeholder {
+    color: #999;
+  }
+  
+  .custom-select__single-value {
+    color: #555;
+  }
+  
+  .custom-select__indicator {
+    color: #999;
+  }
+  
+  .custom-select__indicator:hover {
+    color: #555;
+  }
+  
+  .css-13cymwt-control{
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+    border: none !important;
+    font-size: 1.2em;
+    color: white;
+    margin-bottom: 30px;
+    border-radius: 20px !important;
+  }
+
+  .css-t3ipsp-control{
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+    border: none !important;
+    width: 300px;
+    font-size: 1.2em;
+    color: white;
+    margin-bottom: 30px;
+    border-radius: 20px !important;
+  }
+  
+
+  @media (max-width: 768px){
+    .titre_page_bonus {
+      transform: scale(0.8);
+  }
+  .div_filtre {
+    width: 100%;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom-select.css-b62m3t-container{
+  width: 70%;
+}
+  }
+  
+

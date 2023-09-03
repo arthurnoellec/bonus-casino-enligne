@@ -1,0 +1,161 @@
+.page_depot_all {
+  width: 100%;
+  max-width: 1100px;
+}
+
+.page_depot_bg {
+  background-image: url(https://zupimages.net/up/23/15/a5v4.png);
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 50vh;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.page_depot_titre>h1 {
+  background: linear-gradient(180deg, #F9BF12 0%, #AFF912 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-size: calc(4500vw/1858);
+  font-family: sans-serif;
+  width: 65%;
+}
+
+.page_depot_list {
+  display: flex;
+  width: 65%;
+  flex-wrap: wrap;
+  min-height: fit-content;
+}
+
+.checkbox_methode_depot {
+  width: 130px;
+  height: 60px;
+  background-color: #454540;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.sous_titre_depot>H3,
+.description_methode>P {
+  font-family: sans-serif;
+}
+
+.sous_titre_depot {
+  margin-top: 80px;
+}
+
+@media only screen and (max-width: 1150px) {
+  .page_depot_all {
+    width: 90%;
+    max-width: 1100px;
+  }
+
+  .page_depot_titre>h1 {
+    font-size: calc(4500vw/1150);
+  }
+
+  .page_depot_bg {
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .page_depot_bg {
+    background-image: none;
+  }
+
+  .page_depot_titre>h1 {
+    font-size: calc(4500vw/800);
+  }
+
+  .page_depot_titre>h1 {
+    width: 100%;
+  }
+
+  .page_depot_list {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .sous_titre_depot {
+    margin-top: 0px;
+  }
+
+}
+
+.checkbox_methode_depot input[type="checkbox"]:checked+label {
+opacity: 0;
+}
+
+
+input[type="radio"]::-moz-focus-inner,
+input[type="radio"]::-moz-focus-outer {
+  opacity: 0;
+}
+
+input[type="radio"] {
+  opacity: 0;
+}
+
+input[type="radio"]:checked {
+  opacity: 0;
+}
+
+input[type="radio"]:checked:after {
+  opacity: 0;
+}
+
+.checkbox_methode_depot{
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.Visa {
+background-image: url(../donees/icon/mt_visa_off.png);
+}
+
+.MasterCard{
+background-image: url(../donees/icon/mt_master_off.png);
+}
+
+.Paypal{
+background-image: url(../donees/icon/mth_paypal.png);
+}
+
+.Crypto{
+background-image: url(../donees/icon/crypto_off.png);
+}
+
+.Cashlib{
+background-image: url(../donees/icon/cashlib_off.png);
+}
+
+.Neteller{
+/* background-image: url(../donees/icon/cashlib_off.png); */
+}
+
+.Skrill{
+  /* background-image: url(../donees/icon/cashlib_off.png); */
+}
+
+.Paysafecard{
+  /* background-image: url(../donees/icon/mth_paypal.png); */
+}
+
+.Neosurf{
+  background-image: url(../donees/icon/neosurf_off.png);
+}
+
+
+.div_checked {
+  background-color: red;
+}

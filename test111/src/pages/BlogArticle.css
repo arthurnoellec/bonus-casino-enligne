@@ -1,0 +1,77 @@
+.artcile_complet{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cc_article {
+    width: 90%;
+    max-width: 1300px;
+}
+
+.cc_article>h1 {
+    text-align: center;
+}
+
+.cc_article>img{
+    transform: translate(-50%);
+    position: relative;
+    left: 50%;
+    width: 95%;
+    border-radius: 10px;
+}
+
+.cc_article>div>h2 {
+    margin-top: 80px;
+}
+
+.cc_article>div>div>h3 {
+    margin-left: 10px;
+}
+
+.cc_article>div>div>p {
+    margin-left: 20px;
+}
+
+
+  
+.share-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .share-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 0 5px; /* Espacement entre les boutons */
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    width: 200px; /* Ajustez la largeur si nécessaire */
+  }
+  
+  .share-button i {
+    margin-right: 10px;
+  }
+  
+  .twitter-button {
+    background-color: #000000; /* Bleu pour Twitter */
+  }
+  
+  .facebook-button {
+    background-color: #1877f2; /* Bleu pour Facebook */
+  }
+  
+  .email-button {
+    background-color: #ff5733; /* Rouge orangé */
+  }
+  
+  .share-button:hover {
+    background-color: #333; /* Foncé au survol */
+  }

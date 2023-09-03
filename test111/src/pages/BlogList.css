@@ -1,0 +1,75 @@
+.tout {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.c_blogs {
+    max-width: 1300px;
+    width: 100%;
+}
+
+.cc_blogs>div {
+    border-radius: 25px;
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: 4.419055461883545px 4.419055461883545px 11.293142318725586px 0px rgba(12, 12, 12, 0.90), -4.419055461883545px -4.419055461883545px 8.83811092376709px 0px rgba(50, 50, 46, 0.90), 4.419055461883545px -4.419055461883545px 8.83811092376709px 0px rgba(12, 12, 12, 0.20), -4.419055461883545px 4.419055461883545px 8.83811092376709px 0px rgba(12, 12, 12, 0.20), -0.49100616574287415px -0.49100616574287415px 0.9820123314857483px 0px rgba(12, 12, 12, 0.50) inset, 0.49100616574287415px 0.49100616574287415px 0.9820123314857483px 0px rgba(50, 50, 46, 0.30) inset;
+}
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lesfiltres {
+    border-radius: 25px;
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: 4.419055461883545px 4.419055461883545px 11.293142318725586px 0px rgba(12, 12, 12, 0.90), -4.419055461883545px -4.419055461883545px 8.83811092376709px 0px rgba(50, 50, 46, 0.90), 4.419055461883545px -4.419055461883545px 8.83811092376709px 0px rgba(12, 12, 12, 0.20), -4.419055461883545px 4.419055461883545px 8.83811092376709px 0px rgba(12, 12, 12, 0.20), -0.49100616574287415px -0.49100616574287415px 0.9820123314857483px 0px rgba(12, 12, 12, 0.50) inset, 0.49100616574287415px 0.49100616574287415px 0.9820123314857483px 0px rgba(50, 50, 46, 0.30) inset;
+    padding: 30px;
+    max-width: 1300px;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+.lesfiltres label {
+    padding: 10px 30px;
+    font-weight: 600;
+    border: 1px solid #FFF;
+    border-radius: 50px;
+    margin: 5px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+a.article>h3 {
+    color: white;
+    text-decoration: underline;
+}
+
+a.article>p {
+    color: #b6b6b6;
+}
+
+
+/* Écran inférieur à 700px */
+@media screen and (min-width: 700px) {
+    .cc_blogs>div {
+        max-width: calc(100%/3);
+    }
+}
+
+.blog-image {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px; /* Si vous souhaitez ajouter des coins arrondis */
+  }
+
+  a.article>p {
+    width: 100%;
+}

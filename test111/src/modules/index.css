@@ -1,0 +1,37 @@
+.popup {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #000000;
+    border: 1px solid #777777;
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+    padding: 20px;
+    z-index: 1;
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .closeButton {
+    position: absolute;
+    top: 10px;
+    right: 80px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 30;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-weight: 700;
+  }
+  
+
+  .logo_typo{
+    transform: scale(0.6) !important;
+  }
+
+  .sib-form-block{
+    text-align: center !important;
+  }

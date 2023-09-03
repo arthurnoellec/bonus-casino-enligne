@@ -1,0 +1,53 @@
+/* Style pour le champ de texte */
+#EMAIL {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 5px;
+    background-color: #fff;
+    border: none !important;
+  }
+  
+  /* Style pour le bouton */
+  .sib-form-block__button {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #FDDC18 0%, #B3C642 100%);
+    box-shadow: 0px 0px 4.18769px rgba(255, 255, 255, 0.25);
+    color: black;
+    text-align: center;
+    border: none;
+  }
+  
+  
+  /* Style pour le bord arrondi du champ de texte */
+
+  #EMAIL:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #ffc107;
+    border-radius: 5px;
+    border: none !important;
+  }
+  
+  .sib-form{
+    width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    div#sib-form-container{
+    width: 50%;
+    }
+
+    .petit_texte{
+      font-size: small;
+      text-align: center;
+    }
+
+    .gambleawareimg{
+      transform: scale(0.5);
+    }

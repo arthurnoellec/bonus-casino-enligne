@@ -1,0 +1,125 @@
+.contenaireCards {
+    width: 100%;
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardsCasino {
+    width: 90%;
+    height: 70px;
+    background-color: red;
+    margin: 10px 0;
+    border-radius: 55px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+    background: linear-gradient(135deg, #161614 0%, #282826 100%);
+    box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2),
+        4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2),
+        -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9),
+        4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9),
+        inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3),
+        inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+}
+
+.lesBoutonsCards button:hover {
+    transform: scale(1.05);
+  }
+
+.contenaireCards span {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.nomCasino {
+    font-size: 20px !important;
+    margin-left: 20px;
+}
+
+.lesBoutonsCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.lesBoutonsCards>button {
+    background: linear-gradient(180deg, #FDDC18 0%, #B3C642 100%);
+    box-shadow: 0px 0px 6.79392px rgba(255, 255, 255, 0.25);
+    border-radius: 14px;
+    border: none;
+    font-size: 18px;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+
+button {
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+
+.iconCards {
+    margin-right: 8px;
+}
+
+.div_titre {
+    display: flex;
+    align-items: center;
+}
+
+.info_btn {
+    padding: 10px;
+    border-radius: 5px 0px 5px 5px;
+    background-color: #F9BF12;
+    color: #161614 !important;
+    height: 8px;
+    margin-left: 10px;
+    transform: scale(0.9);
+}
+
+.jusqua {
+    font-size: 15px !important;
+    font-weight: 400;
+}
+
+.pourcent {
+    font-size: 35px;
+}
+
+.div_titre>img {
+    height: 95%;
+    margin-left: 10px;
+}
+
+.div_titre>div>img{
+    border-radius: 50px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    padding: 10px 25px;
+}
+
+.iTelephone{
+    min-width: 47px;
+    margin-left: 10px;
+}
+
+@media only screen and (min-width: 1000px) {
+    .iTelephone{
+        display: none !important;
+    }
+}
+

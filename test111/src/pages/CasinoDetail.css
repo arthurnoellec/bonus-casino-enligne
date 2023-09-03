@@ -1,0 +1,514 @@
+body {
+  background-color: #1b1b19;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.all_detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+}
+
+.btn_bonus button:hover , .div_btn_detail button:hover{
+      transform: scale(1.05);
+}
+
+.background_detail {
+  background: url(https://zupimages.net/up/23/15/rlpz.png);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.6;
+  width: 100vw;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.info_titre_detail {
+  background: linear-gradient(135deg, #161614 0%, #282826 100%);
+  box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+  border-radius: 20px;
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info_detail_date {
+  padding: 0 30px;
+}
+
+.img_txt {
+  display: flex;
+}
+
+.img_txt>img {
+  margin: 10px;
+}
+
+.img_txt>div {
+  margin: 10px;
+}
+
+.rest_detail {
+  width: 100%;
+  max-width: 1100px;
+  padding-top: 30px;
+}
+
+.liste_depot>* {
+  transform: scale(0.9);
+}
+
+.detail_description {
+  background: linear-gradient(135deg, #161614 0%, #282826 100%);
+  box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 40px;
+}
+
+.detail_des_gauche,
+.detail_des_droite {
+  display: flex;
+  width: 40%;
+  flex-wrap: wrap;
+  padding: 2.5%;
+}
+
+.carteDepot {
+  width: 100%;
+  height: 80px;
+  background: linear-gradient(135deg, #161614 0%, #282826 100%);
+  box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+  border-radius: 20px;
+  margin: 30px 0;
+}
+
+.div_notre_avis,
+.contenere_des_paiement {
+  background: linear-gradient(135deg, #161614 0%, #282826 100%);
+  box-shadow: -4.41906px 4.41906px 8.83811px rgba(12, 12, 12, 0.2), 4.41906px -4.41906px 8.83811px rgba(12, 12, 12, 0.2), -4.41906px -4.41906px 8.83811px rgba(50, 50, 46, 0.9), 4.41906px 4.41906px 11.2931px rgba(12, 12, 12, 0.9), inset 0.491006px 0.491006px 0.982012px rgba(50, 50, 46, 0.3), inset -0.491006px -0.491006px 0.982012px rgba(12, 12, 12, 0.5);
+  border-radius: 20px;
+  padding: 20px 50px;
+}
+
+.titre_notre_avis {
+  margin-top: 80px;
+}
+
+* {
+  font-family: Roboto, sans-serif;
+}
+
+.img_txt {
+  align-items: center;
+}
+
+.img_txt>div>h3 {
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.img_txt>div>span {
+  font-size: 1.3em;
+}
+
+.detail_description {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.detail_des_droite {
+  border: solid 2px white;
+  height: fit-content;
+  display: flex;
+  border-radius: 0 15px 15px;
+}
+
+
+
+.detail_des_droite>* {
+  width: 100%;
+}
+
+.listeMethodeOn {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.paiement_dispo {
+  width: calc((100%/10));
+  height: 60px;
+  background: linear-gradient(180deg, #F9BF12 0%, #AFF912 218.89%);
+  border-radius: 10px;
+  margin: 5px;
+  min-width: 100px;
+}
+
+.detail_des_droite>h4,
+.detail_des_droite>p {
+  margin: 0;
+}
+
+.delai_div {
+  margin-bottom: 10px !important;
+}
+
+.carteDepot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.barre_txt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.barre_txt>span {
+  font-size: 1.5em;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.barre {
+  width: 2px !important;
+  height: 50px;
+  background-color: white;
+  position: relative;
+  left: 50%;
+}
+
+.flexos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexos>* {
+  width: 100%;
+  text-align: center;
+}
+
+.flexos>span:first-child {
+  font-size: 1.8em !important;
+  font-weight: 700;
+}
+
+.flexos>span:last-child {
+  font-size: 0.8em !important;
+}
+
+.Le_btn_detail {
+  background: linear-gradient(180deg, #FDDC18 0%, #B3C642 100%);
+  box-shadow: 0px 0px 6.79392px rgba(255, 255, 255, 0.25);
+  border: none;
+  border-radius: 13px;
+  font-size: 1.2em;
+  padding: 8px 25px;
+  font-weight: 500;
+}
+
+
+.header_detail,
+.img_casino_detail,
+.info_casi_detail_all {
+  display: flex;
+  width: 100%;
+
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.img_casino_detail {
+  margin-bottom: 20px;
+}
+
+.header_detail {
+  width: 58%;
+  margin-top: 50px;
+}
+
+.info_casi_detail_all>div {
+  width: calc(100%/3);
+  display: flex;
+  justify-content: center;
+}
+
+.date_lien,
+.titre_note {
+  flex-wrap: wrap;
+}
+
+.date_lien>span {
+  width: 100%;
+  font-size: calc(1800vw/1838);
+}
+
+.titre_note>span {
+  font-size: calc(2300vw/1838);
+  width: 100%;
+  text-align: center;
+}
+
+.titre_note>span:first-child {
+  font-size: calc(3000vw/1838);
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+}
+
+.btn_bonus {
+  justify-content: end !important;
+}
+
+.contenere_des_paiement {
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 50px;
+}
+
+.paiement_liste {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.paiement_liste>h3 {
+  width: 100%;
+}
+
+.retrait_delai {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.retrait_delai>span {
+  width: 100%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .header_detail {
+    width: 90%;
+  }
+
+  .date_lien>span {
+    font-size: calc(1800vw/1200);
+  }
+
+  .titre_note>span {
+    font-size: calc(2300vw/1200);
+  }
+
+  .titre_note>span:first-child {
+    font-size: calc(3000vw/1200);
+  }
+
+  .Le_btn_detail {
+    font-size: calc(2300vw/1200);
+  }
+
+  .contenere_des_paiement {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .carteDepot {
+    display: flex;
+    flex-wrap: wrap;
+    height: 350px;
+  }
+
+  .carteDepot>div {
+    width: 50%;
+  }
+
+  .div_btn_detail {
+    padding-right: 0px !important;
+    display: flex;
+    justify-content: center;
+  }
+
+  .barre {
+    display: none;
+  }
+
+  .titre_notre_avis {
+    text-align: center;
+  }
+
+  .div_notre_avis {
+    transform: scale(0.9);
+  }
+
+}
+
+@media only screen and (max-width: 700px) {
+  .info_casi_detail_all {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .background_detail {
+    background: url(https://zupimages.net/up/23/15/rlpz.png);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .info_casi_detail_all>div {
+    width: 100%;
+    justify-content: center !important;
+    text-align: center;
+    padding: 15px 0;
+  }
+
+  .date_lien>span {
+    font-size: calc(1800vw/700);
+  }
+
+  .titre_note>span {
+    font-size: calc(2300vw/700);
+  }
+
+  .titre_note>span:first-child {
+    font-size: calc(3000vw/700);
+  }
+
+  .Le_btn_detail {
+    font-size: calc(2300vw/700);
+  }
+
+  .contenere_des_paiement {
+    width: 65%;
+  }
+}
+
+.div_btn_detail {
+  padding-right: 20px;
+}
+
+.nospace {
+  margin: 10px 0;
+}
+
+.img_avis {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.div_notre_avis {
+  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.img_casino_detail>img {
+  max-width: 150px !important;
+  border-radius: 100px;
+}
+
+
+
+.visa {
+  background: url(../donees/icon/mt_visa_off.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.mastercard {
+  background: url(../donees/icon/mt_master_off.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.crypto {
+  background: url(../donees/icon/crypto_off.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.cashlib {
+  background: url(../donees/icon/cashlib_off.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.neosurf {
+  background: url(../donees/icon/neosurf_off.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.neteller{
+  background: url(../donees/icon/0x0.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.skrill {
+  background: url(../donees/icon/free-skrill-4-566359.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.paysafecard{
+    background: url(../donees/icon/paysafe-card-logo-black-and-white.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: solid 2px;
+}
+
+
+.paypal{
+  background: url(../donees/icon/mth_paypal.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+
+.Le_btn_detail>a{
+  color: black;
+  text-decoration: none;
+}
